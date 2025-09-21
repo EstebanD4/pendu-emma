@@ -181,7 +181,7 @@ run_story_mode()  # utilisera la liste interne si tu ne fournis pas de mots
 ## 📜 Licence
 
 Fais-en ce que tu veux pour apprendre, jouer, ou le customiser.  
-Si tu le partages, un petit crédit “basé sur le Pendu FR console par …” fait plaisir 😉
+Si tu le partages, un petit crédit “basé sur le Pendu FR console par EstebanD4” fait plaisir 😉
 
 ---
 
@@ -192,4 +192,4 @@ Tu veux :
 - un **mode ironman** (1 vie) ?
 - une **version GUI** (tkinter / PySide) plus tard ?
 
-Dis-moi et je te le génère !
+Dis-moi et je regarderais se que je peux faire  !
