@@ -4,11 +4,6 @@
 pendu_histoire.py — Mode Histoire XXL (console)
 ================================================
 
-Objectif
---------
-Version lisible et "humaine" du mode histoire : mêmes fonctionnalités, code
-clarifié et commenté, sans dépendances externes.
-
 Fonctionnalités conservées (identiques à avant)
 ----------------------------------------------
 - 35 niveaux scénarisés avec crescendo (niveaux 1–15 faciles)
