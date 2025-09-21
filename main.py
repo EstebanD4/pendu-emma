@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-pendu.py — Jeu du Pendu (console, "human-like")
+pendu.py — Jeu du Pendu (console)
 
 Modes :
   1) Contre l'ordinateur : mot aléatoire (depuis words.txt si présent)
